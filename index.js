@@ -3,5 +3,5 @@ body.removeChild(document.querySelector('#main'));
 
 const newHeader = document.createElement('h1');
 newHeader.id  = 'victory';
-newHeader.textContent = 'Ombiji is the champion';
+newHeader.textContent = 'Mercy is the champion';
 body.appendChild(newHeader);
